@@ -1,6 +1,7 @@
+package day20260124;
+
 import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStream;
 import java.io.InputStreamReader;
 
 public class Backjoon1436 {

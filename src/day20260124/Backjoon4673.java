@@ -1,3 +1,5 @@
+package day20260124;
+
 import java.util.Vector;
 
 public class Backjoon4673 {
