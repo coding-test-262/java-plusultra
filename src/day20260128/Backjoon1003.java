@@ -1,3 +1,5 @@
+package day20260128;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
