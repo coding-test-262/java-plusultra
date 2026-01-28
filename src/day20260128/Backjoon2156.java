@@ -1,4 +1,5 @@
-import java.util.ArrayList;
+package day20260128;
+
 import java.util.Scanner;
 
 public class Backjoon2156 {

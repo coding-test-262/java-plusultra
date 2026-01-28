@@ -1,3 +1,5 @@
+package day20260128;
+
 import java.util.Scanner;
 
 public class Backjoon10844 {
