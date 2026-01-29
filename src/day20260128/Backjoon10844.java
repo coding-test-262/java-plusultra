@@ -1,6 +1,7 @@
 package day20260128;
 
-import java.util.Scanner;
+import java.util.*;
+import java.io.*;
 
 public class Backjoon10844 {
     static int N;
