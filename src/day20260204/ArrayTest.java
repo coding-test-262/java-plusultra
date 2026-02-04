@@ -1,3 +1,5 @@
+package day20260204;
+
 import java.util.*;
 
 public class ArrayTest {

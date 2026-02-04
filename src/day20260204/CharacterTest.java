@@ -1,3 +1,5 @@
+package day20260204;
+
 public class CharacterTest {
     public static void main(String[] args) {
         String str = Character.toString('c');

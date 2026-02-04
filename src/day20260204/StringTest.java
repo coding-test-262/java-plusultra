@@ -1,3 +1,5 @@
+package day20260204;
+
 public class StringTest {
     public static void main(String[] args) {
         String str = "Hello World!";
