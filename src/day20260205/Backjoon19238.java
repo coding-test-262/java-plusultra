@@ -1,4 +1,5 @@
-import java.awt.*;
+package day20260205;
+
 import java.util.*;
 import java.io.*;
 import java.util.List;

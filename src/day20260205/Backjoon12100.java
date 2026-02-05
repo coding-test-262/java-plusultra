@@ -1,3 +1,5 @@
+package day20260205;
+
 import java.util.*;
 import java.io.*;
 
