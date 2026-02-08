@@ -1,4 +1,5 @@
-import java.util.*;
+package day2026129;
+
 import java.io.*;
 
 public class Backjoon1300 {
